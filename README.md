@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/haddadtheorc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haddadtheorc&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haddadtheorc&layout=compact&langs_count=5&theme=dracula"/>
 </div>
   
   ##
