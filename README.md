@@ -8,4 +8,4 @@
 </div>
   
   ##
-[![Gmail Badge](https://img.shields.io/badge/-ghvieira@inf.ufsm.br-d93025?style=flat-square&logo=Gmail&logoColor=white&link=mailto:-ghvieira@inf.ufsm.br)](mailto:mdsilva@inf.ufsm.br)
+[![Gmail Badge](https://img.shields.io/badge/-ghvieira@inf.ufsm.br-d93025?style=flat-square&logo=Gmail&logoColor=white&link=mailto:-ghvieira@inf.ufsm.br)](mailto:ghvieira@inf.ufsm.br)
